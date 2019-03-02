@@ -52,6 +52,7 @@ body{
   list-style: none;
 }
 footer{
+  padding: 5px;
   background-color: #505668;
 } footer p{
   margin: 0;
