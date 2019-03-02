@@ -35,16 +35,19 @@ body{
     color: #000000;
 }
 .portada{
-  /* width: 150px; */
   color: #c6c6c6;
 } .portada img {
-  display:flex;
-  margin:0 auto;
-  width: 150px;
+  width: 170px;
+  display: flex;
+  margin: 0 auto;
 }
 .tarjeta{
-  width: 200px;
-  float: none;
+  padding: 10px;
+  background-color: #999999;
 } .tarjeta img{
-  width: 200px;
+  display: flex;
+  margin: 0 auto;
+  width: 50px;
+} .tarjeta ul{
+  list-style: none;
 }
