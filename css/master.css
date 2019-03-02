@@ -51,3 +51,12 @@ body{
 } .tarjeta ul{
   list-style: none;
 }
+footer{
+  background-color: #505668;
+} footer p{
+  margin: 0;
+  font-size: 12px;
+} footer img{
+  width: 150px;
+  float: right;
+}
